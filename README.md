@@ -1,6 +1,5 @@
-# Introduction
+<center> # Hola, me llamo Elian Borda</center>
 
-### Hola, soy Elian Borda
 
 <!--
 **ElianBorda/ElianBorda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
