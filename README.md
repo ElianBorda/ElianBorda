@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Web Scraping en Python**
 
-- 📫 How to reach me **eliancamiloalejandro@gmail.com**
+- 📫 Como contactarme **eliancamiloalejandro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
