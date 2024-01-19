@@ -11,7 +11,7 @@
 
 - 📫 Como contactarme **eliancamiloalejandro@gmail.com**
 
-- 📄 Sobre mi experiencia [Trabaje como docente en desarrollo de aplicaciones, y soy colaborador de catedra en las materias de Programación con Objetos 1 y 2](Trabaje como docente en desarrollo de aplicaciones, y soy colaborador de catedra en las materias de Programación con Objetos 1 y 2)
+- 📄 Sobre mi experiencia: Trabaje como docente en desarrollo de aplicaciones, y soy colaborador de catedra en las materias de Programación con Objetos 1 y 2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
