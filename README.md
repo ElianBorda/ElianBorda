@@ -3,62 +3,123 @@
   <h1>Hola 👋, soy Elian Borda</h1>
   <h3>Un apasionado programador especializado en el desarrollo Backend.</h3>
   <p>
-    <a href="https://linkedin.com/in/eliancamiloalejandrodev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/eliancamiloalej1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;&nbsp;
-    <a href="https://www.leetcode.com/develian/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+    <a href="https://linkedin.com/in/eliancamiloalejandrodev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliancamiloalejandrodev/" height="40" width="50" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/eliancamiloalej1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eliancamiloalej1" height="40" width="50" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.leetcode.com/develian/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="develian/" height="40" width="50" /></a>
   </p>
 </div>
 
 ---
 
-### Sobre Mí
+### ✨ Un Poco Sobre Mí
 
-- 🔭 Actualmente estoy desarrollando un proyecto llamado **[IAlquila](https://github.com/ElianBorda/ialquila)**, enfocado en la gestión de alquileres.
-- 🌱 Siempre aprendiendo: ahora mismo profundizando en **Web Scraping** y **Python**.
-- 💬 Pregúntame sobre **React, Spring Boot, Bases de datos SQL (MySQL, PostgreSQL) y NoSQL (MongoDB)**.
-- 📫 Puedes contactarme en: **eliancamiloalejandro@gmail.com**
-- 👨‍💻 Mi experiencia incluye docencia en desarrollo de aplicaciones y colaboración en las cátedras de Programación con Objetos 1 y 2.
-
----
-
-### 🚀 Mi Stack Tecnológico
-
-<p align="center">
-  <strong>Backend:</strong><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <br><br>
-  <strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br><br>
-  <strong>Bases de Datos:</strong><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br><br>
-  <strong>Herramientas y Otros:</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>🔭 Actualmente desarrollando <b><a href="https://github.com/ElianBorda/ialquila">IAlquila</a></b>, mi proyecto personal.</li>
+        <li>🌱 Enfocado en aprender y dominar <b>Web Scraping con Python y Selenium</b>.</li>
+        <li>💬 Me encanta hablar sobre <b>React, Spring Boot, y diseño de bases de datos SQL y NoSQL</b>.</li>
+        <li>👨‍💻 He sido docente de desarrollo y soy colaborador de cátedra en <b>Programación con Objetos 1 y 2</b>.</li>
+        <li>📫 La mejor forma de contactarme es a través de mi email: <b>eliancamiloalejandro@gmail.com</b></li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elianborda&show_icons=true&locale=es&layout=compact&theme=vision-friendly-dark" alt="elianborda-langs" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 💻 Tecnologías y Herramientas
+
+<table width="100%">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="120">
+      <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
+      </a>
+      <br>Spring
+    </td>
+     <td align="center" width="120">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="120">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="120">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
+      </a>
+      <br>Node.js
+    </td>
+     <td align="center" width="120">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+      </a>
+      <br>MongoDB
+    </td>
+     <td align="center" width="120">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="120">
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+      </a>
+      <br>Linux
+    </td>
+     <td align="center" width="120">
+      <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="45" height="45"/>
+      </a>
+      <br>Selenium
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Mi Actividad y Estadísticas
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elianborda&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="elianborda-langs" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elianborda&show_icons=true&locale=es&theme=tokyonight" alt="elianborda-stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elianborda&theme=tokyonight" alt="elianborda-streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elianborda&show_icons=true&locale=es&theme=vision-friendly-dark" alt="elianborda" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elianborda&theme=vision-friendly-dark" alt="elianborda" />
 </p>
